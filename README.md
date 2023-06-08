@@ -6,7 +6,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working at **[Let's Co](https://www.letsco.co/)**
 
-- 🌱 I’m currently learning **[Laravel](https://laravel.com/), [Vue.js](https://vuejs.org/), [Tailwind CSS](https://tailwindcss.com/) & [SilverStripe](https://www.silverstripe.org/)**
+- 🌱 I’m currently learning **[React](https://react.dev/) & [SilverStripe](https://www.silverstripe.org/)**
 
 - 💬 Ask me about **[Python](https://www.python.org/) & [discord.py](https://discordpy.readthedocs.io/en/stable/)**
 
