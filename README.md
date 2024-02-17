@@ -15,7 +15,6 @@
 - 📌 Frontend is not my enemy, but Backend is my real friend!
 
 </br>
-</br>
 <table>
   <thead>
     <tr>
@@ -88,5 +87,3 @@
     </tr>
   </tbody>
 </table>
-</br>
-</br>
