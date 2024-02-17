@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dakota Froissart</h1>
 <h3 align="center">An application designer and developper from France</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=malikaza&label=Profile%20views&color=0e75b6&style=flat" alt="malikaza" /> </p>
-
 </br>
 </br>
 
