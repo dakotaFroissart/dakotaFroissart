@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **[Let's Co](https://www.letsco.co/)**
 
-- 📫 How to reach me **dakota742009@gmail.com**
+- 📫 How to reach me **dakota.froissart@powaza.fr**
 
 - 📌 Frontend is not my enemy, but Backend is my real friend!
 
