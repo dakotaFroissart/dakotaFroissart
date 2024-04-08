@@ -6,8 +6,6 @@
 
 <h2 align="left">💫 About Me:</h2>
 
-- 🔭 I’m currently working at **[Let's Co](https://www.letsco.co/)**
-
 - 📫 How to reach me **dakota.froissart@powaza.fr**
 
 - 📌 Frontend is not my enemy, but Backend is my real friend!
