@@ -6,6 +6,8 @@
 
 <h2 align="left">💫 About Me:</h2>
 
+- 🌱 Currently learning [AdonisJS](https://adonisjs.com/)
+
 - 📫 How to reach me **dakota.froissart@powaza.fr**
 
 - 📌 Frontend is not my enemy, but Backend is my real friend!
