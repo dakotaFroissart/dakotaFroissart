@@ -9,7 +9,6 @@
 - 📫 How to reach me **dakota.froissart@powaza.fr**
 
 </br>
-<div style="width:100%;">
 <table>
   <thead>
     <tr>
@@ -32,4 +31,3 @@
     </tr>
   </tbody>
 </table>
-</div>
