@@ -6,13 +6,10 @@
 
 <h2 align="left">💫 About Me:</h2>
 
-- 🌱 Currently learning [AdonisJS](https://adonisjs.com/)
-
 - 📫 How to reach me **dakota.froissart@powaza.fr**
 
-- 📌 Frontend is not my enemy, but Backend is my real friend!
-
 </br>
+<div style="width:100%;">
 <table>
   <thead>
     <tr>
@@ -24,16 +21,15 @@
   <tbody>
     <tr>
       <td align="left">
-        ![](https://skillicons.dev/icons?i=py,js,ts,php,mysql&perline=3)
+        <img src="https://skillicons.dev/icons?i=py,js,ts,php,mysql&perline=3" />
       </td>
       <td align="left">
-        ![](https://skillicons.dev/icons?i=react,vite,tailwind,adonis)
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+        <img src="https://skillicons.dev/icons?i=react,vite,tailwind,adonis&perline=3" />
       </td>
       <td align="left">
-        ![](https://skillicons.dev/icons?i=vscode,git,github,gitlab,linux,regex,ps,figma,postman)
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+        <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,linux,ps,figma,apple&perline=4" />
       </td>
     </tr>
   </tbody>
 </table>
+</div>
